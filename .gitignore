@@ -42,11 +42,17 @@ yarn.lock
 # GitHub Actions artifacts
 .github/workflows/artifacts/
 
-# Project-specific ignores
-README.md
+# API Configuration (local development only)
+# Please make sure that your API keys ARE NOT uploaded to your GitHub repo
+frontend/js/api-config.js
+api-config.js
 
-# Backups
-backups/
+# Editor files
+# Please add these four lines to your .gitignore file too
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Large temporary files
 *.tmp
