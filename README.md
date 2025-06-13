@@ -1,6 +1,6 @@
 # Pragmatic Auto-Translator
 
-A corpus-informed, whole-document machine translation research project that challenges traditional sentence-by-sentence translation approaches.
+A corpus-informed, whole-document automatic translation research project that challenges traditional sentence-by-sentence translation approaches.
 
 ## 🎯 Project Overview
 
