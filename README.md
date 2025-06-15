@@ -6,7 +6,7 @@ A corpus-informed, whole-document automatic translation research project that ch
 
 The Pragmatic Auto-Translator investigates potential improvements to machine translation through two key innovations:
 
-1. **Corpus-informed translation** using domain-specific monolingual corpora in the translation/localization domain
+1. **Corpus-informed translation** using domain-specific monolingual corpora
 2. **Document-level translation** moving beyond traditional sentence-level segmentation  
 
 ### Current Implementation (Version 1)
