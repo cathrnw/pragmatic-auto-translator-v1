@@ -77,3 +77,4 @@ Thumbs.db
 
 # Log files
 *.log
+.vercel
